@@ -441,7 +441,8 @@ a {
   color: var(--light-color);
   padding-top: 190px;
   padding-bottom: 40px;
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(../img/hero-bg.jp);
+  background-color: #000;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -787,7 +788,7 @@ a {
   flex-grow: 0;
   width: 287px;
   height: 100%;
-  background-image: url("../img/info-1.jpg");
+  background-image: url("../img/info-1.jp");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -804,7 +805,7 @@ a {
   flex-grow: 0;
   width: 287px;
   height: 100%;
-  background-image: url("../img/info-2.jpg");
+  background-image: url("../img/info-2.jp");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
