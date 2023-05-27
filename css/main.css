@@ -139,7 +139,7 @@ a {
   text-align: center;
 }
 
-.dis-scroll {
+/* .dis-scroll {
   position: fixed;
   left: 0;
   top: 0;
@@ -153,7 +153,7 @@ a {
 .page--ios .dis-scroll {
   position: relative;
 }
-
+ */
 .flex {
   display: -webkit-box;
   display: -ms-flexbox;
