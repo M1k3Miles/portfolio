@@ -386,8 +386,8 @@ a {
   .nav {
     position: fixed;
     left: 0;
-    top: 64px;
-    width: 80%;
+    top: 62px;
+    width: 100%;
     height: 100vh;
     z-index: 100;
     background-color: #001414;
