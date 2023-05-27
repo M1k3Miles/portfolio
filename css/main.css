@@ -154,6 +154,20 @@ a {
   position: relative;
 }
  */
+
+.dis-scroll {
+  position: fixed;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  -ms-scroll-chaining: none;
+  overscroll-behavior: none;
+}
+
+.page--ios .dis-scroll {
+  position: relative;
+}
+
 .flex {
   display: -webkit-box;
   display: -ms-flexbox;
